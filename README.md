@@ -2,7 +2,7 @@
 
 A Todo List Flutter project.
 
-## Nom-Prenom des participants: 
+## Prénom-Nom des participant(e)s: 
 
 - Alice Cai
 - Florence Cai
